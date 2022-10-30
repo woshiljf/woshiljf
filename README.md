@@ -2,7 +2,7 @@
 <h1 align="center"> Hello! 👋  I'm <a href="https://github.com/woshiljf/woshiljf">woshiljf</a>!</h1>
 <h1 align="center">a 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
 <h1 align="center">working: byteDance </h1>
-<h1 align="center">一个长的不帅，但是又会弹点吉他的前端砖家。一个B站只有一位粉丝的up主 </h1>
+<h1 align="center">一个长的不帅，但是又会弹点吉他的前端砖家。一个B站只有1⃣️位粉丝的up主 </h1>
 
 
 <p align="center">
